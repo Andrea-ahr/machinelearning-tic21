@@ -1,0 +1,6 @@
+0 Pug
+1 Pastor Aleman
+2 Pitbull
+3 San Bernardo
+4 Golden Retriever
+5 Chihuahua
